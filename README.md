@@ -4,7 +4,7 @@ ________________________________________________________
 ### 🚀 Next Generation of Lawyers
 
 📊 **Project Progress**  
-`🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪` 45% Complete — MVP in development phase
+`🔵🔵🔵🔵⚪⚪⚪⚪⚪` 38% Complete — MVP in development phase
 
 ---
 
@@ -40,7 +40,7 @@ These reports are validated by our advisory team.
 
 | Quarter | Link to Report |
 |--------|----------------|
-| Q1 (Feb–Apr) | [📄 Q1 Report - Sprint 1 to 6](#) <!-- replace with link to file -->
+| Q1 (Feb–Apr) | [📄 Q1 Report - Sprint 1 to 6](https://plataforma-next-five.vercel.app/docs/Public%20Report%20-%201) <!-- replace with link to file -->
 | Q2 (May–Jul) | *Coming Soon*
 | Q3 (Aug–Oct) | *Coming Soon*
 | Q4 (Nov) | *Coming Soon*
