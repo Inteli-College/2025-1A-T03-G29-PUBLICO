@@ -1,4 +1,4 @@
-# INTELI - Coorporate Project 
+# INTELI - Corporate Project 
 ________________________________________________________
 ## Student: Gabriela Rodrigues Matias
 ### 🚀 Next Generation of Lawyers
