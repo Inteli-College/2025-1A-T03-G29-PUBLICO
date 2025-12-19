@@ -1,82 +1,153 @@
-# **INTELI - Corporate Project**  
-________________________________________________________  
-## **Student:** Gabriela Rodrigues Matias  
-### 🚀 **Next Generation of Lawyers**
+# 🎓 INTELI — Corporate Capstone Project
+---
 
-📊 **Project Progress**  
-`🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪` 80% Complete — MVP validated and Go to Market in progress  
+## 👩‍💻 Student  
+**Gabriela Rodrigues Matias**
+
+## 🚀 Project  
+### **Next Generation of Lawyers (CivicsHub)**
 
 ---
 
-## 📌 **What is this project?**
-
-**Next Generation of Lawyers** is a digital platform created to connect **young legal talents** with **leading law firms and companies**.  
-Our mission is to **simplify and democratize** access to professional opportunities and mentorship programs in the legal field — fostering **diversity, visibility, and innovation** through technology.  
-
-This project integrates **software development**, **AI-driven insights**, and **market validation**, as part of the **capstone project in Computer Engineering (INTELI)**.  
-
----
-
-## 📄 **What you’ll find here**
-
-### 1. 📚 **Documentation**
-
-Explore our complete documentation:  
-👉 [📖 Access the Docs](https://plataforma-next-five.vercel.app/docs/intro)
-
-Includes:  
-- Personas (students, mentors, companies)  
-- User journeys and flowcharts  
-- MVP structure and features roadmap  
-- Wireframes and visual identity  
-- Tech stack and architecture overview  
+## 📊 Project Status
+**Completion Status:**  
+`🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵` **100% Delivered**  
+✅ All planned objectives for the academic year completed  
+✅ MVP fully developed and validated with real users  
+✅ Documentation, testing, and public reports finalized  
 
 ---
 
-### 2. 📆 **Quarterly Reports**
+## 📌 What is this project?
 
-Every 3 months, we share the main deliverables, progress, and next steps validated by advisors and industry partners.  
+⚖️ **Next Generation of Lawyers (CivicsHub)** is a **digital recruitment platform** designed to connect **young legal talents** with **law firms and companies** through a **simplified, transparent, and technology-driven hiring process**.
 
-| Quarter | Report Link | Highlights |
-|----------|--------------|-------------|
-| Q1 (Feb–Apr) | [📄 Q1 Report - Sprints 1–6](https://plataforma-next-five.vercel.app/docs/Public%20Report%20-%201) | Research, personas, and MVP planning |
-| Q2 (May–Jul) | [📄 Q2 Report - Sprints 7–10](https://plataforma-next-five.vercel.app/docs/Public%20Report%20-%202) | Development and internal testing |
-| Q3 (Aug–Oct) | [📄 Q3 Report - Sprints 11–15](https://plataforma-next-five.vercel.app/docs/Public%20Report%20-%203) | Go to Market, fairs, and user testing |
-| Q4 (Nov–Dec) | *Coming Soon* | Pilot deployment and public launch |
+The platform addresses structural inefficiencies in the Brazilian legal recruitment market by:
+- reducing reliance on informal hiring networks,
+- minimizing manual résumé screening,
+- increasing access, visibility, and fairness for early-career professionals.
 
----
-
-## 🧑‍💼 **Project Supervisors**
-
-Developed under supervision of **Prof. Rafael Jacomossi** and with guidance from mentors of the **NEXT Program** and **Civics Educação**, including professionals from top-tier law firms and corporate partners.  
-
-Their participation ensures the platform is aligned with **real-world recruitment needs** and the **digital transformation of the legal sector**.  
+🧠 This project was developed as a **Corporate Capstone Project in Computer Engineering at INTELI**, encompassing the **full lifecycle of a software product**, from market analysis and UX research to system architecture, implementation, validation, and impact assessment.
 
 ---
 
-## 🧠 **Key Features**
+## 📄 What you’ll find in this repository
 
-- 👨‍🎓 **For Students**: Create a profile, apply to jobs, book mentorships  
-- 🧑‍⚖️ **For Mentors**: Manage availability, provide feedback, and follow mentee progress  
-- 🏢 **For Companies**: Post job openings, filter candidates, and manage applications  
-- 🤖 **Smart Matching** *(in progress)*: AI-based recommendation of candidates to openings  
-- 📈 **Lead Tracking Dashboard** *(in design)*: Monitor user registrations and growth metrics  
-- 🎯 **Go to Market Tools**: CRM for contact base and early-stage lead management  
+### 📚 Technical & Product Documentation
+👉 **[📖 Access the Documentation Portal](https://plataforma-next-five.vercel.app/docs/intro)**
+
+Includes:
+- 🧩 Market analysis (Porter’s Five Forces, Blue Ocean Strategy)
+- 👤 User personas and problem definition
+- 🔁 User journeys and functional flows
+- 🛠 Functional and non-functional requirements
+- 🧪 MVP scope definition and roadmap
+- 🎨 Wireframes and interface design
+- 🏗 System architecture and technology stack
+- ✅ Testing strategy and validation results
 
 ---
 
-## 🛠️ **Tech Stack**
+### 📆 Quarterly Public Reports
 
-| Layer | Technologies |
-|--------|---------------|
-| **Frontend** | Next.js 15, TypeScript, Ant Design, TailwindCSS |
-| **Backend** | Node.js + Express |
-| **Database** | PostgreSQL (Supabase) |
-| **Deployment** | Vercel + Render |
+📢 Project evolution was formally documented and reported every quarter, ensuring academic rigor and transparency.
+
+| 🗓 Quarter | 📄 Report | 🔍 Focus |
+|----------|----------|---------|
+| **Q1 (Feb–Apr)** | Research & Planning | Market analysis, personas, problem framing |
+| **Q2 (May–Jul)** | Design & Architecture | UX design, system architecture, database modeling |
+| **Q3 (Aug–Oct)** | Development & Validation | MVP implementation, user testing, GTM experiments |
+| **Q4 (Nov–Dec)** | Final Report | Pilot deployment, impact assessment, documentation closure |
+
+---
+
+## 🧑‍🏫 Academic Supervision & Mentorship
+
+🎓 Developed under the supervision of **Prof. Rafael Jacomossi (INTELI)**  
+🤝 Supported by mentors from the **NEXT Program** and **Civics Educação**
+
+This guidance ensured:
+- alignment with real-world recruitment needs,
+- technical rigor in software engineering decisions,
+- validation of both business and social impact.
+
+---
+
+## 🧠 Core Platform Features
+
+### 👨‍🎓 For Students (Young Legal Talent)
+- 📝 Profile creation (academic and professional background)
+- ⚡ One-click job application
+- 🔍 Opportunity discovery by legal area and location
+- 📌 Application tracking and status visibility
+
+### 🏢 For Law Firms & Companies
+- 🏛 Institutional profile creation
+- 📢 Job posting and opportunity management
+- 🧮 Candidate search and filtering
+- 📊 Application management dashboard
+
+### ⚙️ Platform Capabilities
+- 🧠 Legal area quiz for engagement and profiling
+- 📈 Initial analytics dashboards (MVP)
+- 🧩 Modular architecture designed for scalability and future AI-based matching
+
+> ⚠️ Advanced AI-driven matching, mentorship workflows, and expanded analytics are planned as **future enhancements beyond the academic scope**.
+
+---
+
+## 🛠 Technology Stack
+
+| ⚙️ Layer | 🧩 Technologies |
+|--------|----------------|
+| **Frontend** | Next.js · TypeScript · Ant Design |
+| **Backend** | Node.js · Express |
+| **Database** | PostgreSQL (AWS RDS) |
+| **ORM** | Prisma |
+| **Authentication** | JWT |
+| **Deployment** | Vercel (Frontend) · Render (Backend) |
 | **CI/CD** | GitHub Actions |
-| **Authentication** | Supabase Auth + JWT |
-| **Version Control** | GitHub + Kanban Agile workflow |
+| **Monitoring** | Cloud-managed logs & metrics |
+| **Management** | GitHub · Agile Kanban |
 
 ---
 
-> 💼 Built with purpose, technology, and passion — empowering the next generation of legal talent.  
+## 📈 Validation & Impact Highlights
+
+📊 **Quantitative Outcomes**
+- 👥 **36 registered users** with complete profiles
+- 🏢 **3 partner law firms** onboarded
+- 🧠 **200+ quiz interactions completed**
+- 🧪 **20+ functional tests** covering core MVP flows
+
+💬 **Qualitative Outcomes**
+- High usability and intuitive navigation
+- Strong engagement during onboarding and quizzes
+- Positive feedback from students and recruiters
+
+---
+
+## 🌱 Social & Professional Impact
+
+💙 The platform generated measurable social impact by:
+- expanding access to legal career opportunities,
+- reducing dependence on informal hiring practices,
+- increasing transparency for early-career recruitment,
+- connecting young legal talent with organizations through a structured digital channel.
+
+---
+
+## 🔮 Future Outlook
+
+🚀 With the academic scope completed, future directions include:
+- AI-assisted candidate–job matching
+- Advanced recruiter analytics dashboards
+- Go-To-Market expansion with universities and law firms
+- Public launch and platform scaling
+
+---
+
+## 💼 Final Note
+
+> **This project fully achieved its academic and technical objectives for the year,  
+> delivering a validated MVP, comprehensive documentation, and a scalable foundation for future growth.** ⚖️✨
